@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:9d0d5829-4b63-4820-971e-372f34316ccc",
+  "sessionId": "9d0d5829-4b63-4820-971e-372f34316ccc",
+  "provider": "gemini",
+  "title": "Je comprends pas à quoi sert encore un ide comme antigravity IDE vs des outils comme antigravity / claude code desktop ou encore codex ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/9d0d5829-4b63-4820-971e-372f34316ccc.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/9d0d5829-4b63-4820-971e-372f34316ccc.db",
+      "relativePath": "conversations/gemini/3ca021cc97ee8578/303a155a8b4d1c13.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-05T07:37:09.267Z",
+  "stagedAt": "2026-10-04T08:28:31.693Z"
+}

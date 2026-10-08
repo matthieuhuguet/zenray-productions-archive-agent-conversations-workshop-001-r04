@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4b89de16-1ff0-4f43-92da-607350455d3b",
+  "sessionId": "4b89de16-1ff0-4f43-92da-607350455d3b",
+  "provider": "gemini",
+  "title": "Tu es l'agent dedie au composant 02 WoodFacade. Ta mission est d'extraire la frame a 1 seconde (00:00:01.0) de la video : `/Users/zenray/Dow",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4b89de16-1ff0-4f43-92da-607350455d3b.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4b89de16-1ff0-4f43-92da-607350455d3b.db",
+      "relativePath": "conversations/gemini/5c1f58ed13e5ca97/4e7d13626718e9c7.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T17:41:48.573Z",
+  "stagedAt": "2026-10-04T08:23:16.127Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4fea42da-0458-4440-9907-6fe25f0180aa",
+  "sessionId": "4fea42da-0458-4440-9907-6fe25f0180aa",
+  "provider": "gemini",
+  "title": "a quoi servent les 2 skills pourquoi ne pas les uniformiser je comprends pas ou est la main data dans le skill ou dans memory et pourquoi y'",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4fea42da-0458-4440-9907-6fe25f0180aa.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4fea42da-0458-4440-9907-6fe25f0180aa.db",
+      "relativePath": "conversations/gemini/3bc431c9604f5ff2/c0c45b82481846ec.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T10:19:40.887Z",
+  "stagedAt": "2026-10-04T08:26:16.192Z"
+}

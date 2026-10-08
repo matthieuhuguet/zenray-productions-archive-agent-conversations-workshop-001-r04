@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:2cedf6da-e6d5-412e-a3fd-fb06f6523905",
+  "sessionId": "2cedf6da-e6d5-412e-a3fd-fb06f6523905",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de finaliser Short 02 (Roof). Mission precise : 1. Lance la commande python : python3 /tmp/render_",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/2cedf6da-e6d5-412e-a3fd-fb06f6523905.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/2cedf6da-e6d5-412e-a3fd-fb06f6523905.db",
+      "relativePath": "conversations/gemini/586a4b05f997c4ee/8a9b8a56c7914f4e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:45:19.767Z",
+  "stagedAt": "2026-10-04T08:21:56.112Z"
+}

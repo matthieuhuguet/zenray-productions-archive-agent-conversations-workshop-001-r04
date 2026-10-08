@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:20a24469-7472-4b42-8c52-ab98fa8c2827",
+  "sessionId": "20a24469-7472-4b42-8c52-ab98fa8c2827",
+  "provider": "gemini",
+  "title": "/Users/zenray/Create/Build/Productions/ZenRayHoudini/VegetationCollection01/versions/height_evolution/077_CURRENT_lily_trim_height.png /User",
+  "projectId": "vegetation-assets-collection-01",
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/20a24469-7472-4b42-8c52-ab98fa8c2827.db",
+      "relativePath": "conversations/gemini/46315d1a77e8d624/2e623977d3dcdb36.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-06T00:29:39.541Z",
+  "stagedAt": "2026-10-08T13:16:30.391Z"
+}

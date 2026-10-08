@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:1b4aa97c-c234-4a1e-b636-3b89c06b0d41",
+  "sessionId": "1b4aa97c-c234-4a1e-b636-3b89c06b0d41",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 01 (Windows) avec les sous-titres animes en canon 1s (pop dynamique 1.18, Inte",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/1b4aa97c-c234-4a1e-b636-3b89c06b0d41.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/1b4aa97c-c234-4a1e-b636-3b89c06b0d41.db",
+      "relativePath": "conversations/gemini/5680d3134f714f2a/8ad0ec696e762ed6.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:02:32.866Z",
+  "stagedAt": "2026-10-04T08:21:06.163Z"
+}

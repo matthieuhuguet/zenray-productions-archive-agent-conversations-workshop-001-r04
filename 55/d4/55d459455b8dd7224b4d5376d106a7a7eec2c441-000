@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:6bd01f9c-218d-4c7c-a3f7-2da0d29ced86",
+  "sessionId": "6bd01f9c-218d-4c7c-a3f7-2da0d29ced86",
+  "provider": "gemini",
+  "title": "j'ai deux skill et centralise les en un seul skill zenray-feedback et kill les deux anciennes versions il faut que ce soit affichable dans g",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/6bd01f9c-218d-4c7c-a3f7-2da0d29ced86.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/6bd01f9c-218d-4c7c-a3f7-2da0d29ced86.db",
+      "relativePath": "conversations/gemini/47a1a0e228a254d8/c15a8b1f4dbd16b1.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T11:49:09.359Z",
+  "stagedAt": "2026-10-08T15:29:26.013Z"
+}

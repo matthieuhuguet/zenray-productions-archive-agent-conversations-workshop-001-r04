@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c37ef3ad-109d-495c-a43b-90cce3878cc5",
+  "sessionId": "c37ef3ad-109d-495c-a43b-90cce3878cc5",
+  "provider": "gemini",
+  "title": "Tu es le specialiste pedagogique japonais de Matthieu. Ta mission est d'acter la nouvelle vision dans `Japanese/CLAUDE.md`, de rediger la no",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c37ef3ad-109d-495c-a43b-90cce3878cc5.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c37ef3ad-109d-495c-a43b-90cce3878cc5.db",
+      "relativePath": "conversations/gemini/5693f1fd31d0c07e/c82a10f28287c018.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T07:00:25.363Z",
+  "stagedAt": "2026-10-04T08:27:38.229Z"
+}

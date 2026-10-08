@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:e1d4cd6e-7af7-422c-abd6-9933b4ba579e",
+  "sessionId": "e1d4cd6e-7af7-422c-abd6-9933b4ba579e",
+  "provider": "gemini",
+  "title": "Lis le fichier /Users/zenray/.claude/skills/zenray-houdini/SKILL.md et ajoutes-y proprement une section dediee au Rendu et a l'Animation de ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/e1d4cd6e-7af7-422c-abd6-9933b4ba579e.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/e1d4cd6e-7af7-422c-abd6-9933b4ba579e.db",
+      "relativePath": "conversations/gemini/4fe354e66c6fbfe1/5f5ae6db9ee26d16.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T15:49:44.605Z",
+  "stagedAt": "2026-10-04T08:23:56.175Z"
+}

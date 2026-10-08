@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:f59af314-ebaf-4e35-ba84-c43397f1741e",
+  "sessionId": "f59af314-ebaf-4e35-ba84-c43397f1741e",
+  "provider": "gemini",
+  "title": "maintenant que ce plugin existe j'aimerai créer rapidement un cube rouge pour tester : le plus rapidement possible sur la scène ouverte go :",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/f59af314-ebaf-4e35-ba84-c43397f1741e.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/f59af314-ebaf-4e35-ba84-c43397f1741e.db",
+      "relativePath": "conversations/gemini/51a4622dda89bb95/d0c0403907b9f23a.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T10:15:11.993Z",
+  "stagedAt": "2026-10-04T08:26:26.305Z"
+}
