@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:5f7f3820-57f6-48ef-9068-d1da82c1fb4a",
+  "sessionId": "5f7f3820-57f6-48ef-9068-d1da82c1fb4a",
+  "provider": "gemini",
+  "title": "VIA ce skills reproduis exactement le design de cette image ref. donc l'effet de texture noir et bleu + le text font = Alize-Bold ref = /Use",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/5f7f3820-57f6-48ef-9068-d1da82c1fb4a.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/5f7f3820-57f6-48ef-9068-d1da82c1fb4a.db",
+      "relativePath": "conversations/gemini/5e2ded30d19edfa5/3b60b875eb351b1f.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-18T16:44:38.477Z",
+  "stagedAt": "2026-10-04T08:11:06.286Z"
+}

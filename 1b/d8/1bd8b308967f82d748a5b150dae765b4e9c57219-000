@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:785a7cce-3225-4802-a9c8-b5100fe6dca2",
+  "sessionId": "785a7cce-3225-4802-a9c8-b5100fe6dca2",
+  "provider": "gemini",
+  "title": "You are the Editorial Copywriter subagent for ZenRay. Task: 1. Create the 10 cues (each exactly 2 lines) in English for the short subtitles.",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/785a7cce-3225-4802-a9c8-b5100fe6dca2.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/785a7cce-3225-4802-a9c8-b5100fe6dca2.db",
+      "relativePath": "conversations/gemini/631076b3cefa9023/d4fbeefc56fc1cf7.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-16T17:50:42.223Z",
+  "stagedAt": "2026-10-04T08:13:56.128Z"
+}

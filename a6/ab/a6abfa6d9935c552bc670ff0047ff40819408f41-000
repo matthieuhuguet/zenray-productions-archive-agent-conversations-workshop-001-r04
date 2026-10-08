@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:59a7294b-695e-4d61-8d4d-a51044a58033",
+  "sessionId": "59a7294b-695e-4d61-8d4d-a51044a58033",
+  "provider": "gemini",
+  "title": "Tu es un sous-agent de production graphique pour ZenRay Houdini Shorts. Ta mission : 1. Vérifier le dossier de destination : /Users/zenray/D",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/59a7294b-695e-4d61-8d4d-a51044a58033.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/59a7294b-695e-4d61-8d4d-a51044a58033.db",
+      "relativePath": "conversations/gemini/6cce3297795a1519/0c745b1354fbba03.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-18T15:54:11.465Z",
+  "stagedAt": "2026-10-04T08:11:26.069Z"
+}

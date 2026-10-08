@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:cd8040b5-53f8-4f05-8c12-0446f5ecf383",
+  "sessionId": "cd8040b5-53f8-4f05-8c12-0446f5ecf383",
+  "provider": "gemini",
+  "title": "sur mon bluetooth crée un module qui permet d'afficher la batterie de Dualsense Controller connecté. cherche d'abord sur github si des proje",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/cd8040b5-53f8-4f05-8c12-0446f5ecf383.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/cd8040b5-53f8-4f05-8c12-0446f5ecf383.db",
+      "relativePath": "conversations/gemini/7ced80464fe36329/cec7c29dfa4df7c3.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T12:07:55.586Z",
+  "stagedAt": "2026-10-08T15:28:05.992Z"
+}

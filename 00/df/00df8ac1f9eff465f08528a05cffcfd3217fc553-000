@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:33eb6f3c-a216-45af-b6fa-47b43f0c38d8",
+  "sessionId": "33eb6f3c-a216-45af-b6fa-47b43f0c38d8",
+  "provider": "gemini",
+  "title": "Tu es le rédacteur spécialisé de documentation technique pour ZenRay Houdini. Ta mission est d'intégrer le nouveau concept `zenray-houdini-s",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/33eb6f3c-a216-45af-b6fa-47b43f0c38d8.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/33eb6f3c-a216-45af-b6fa-47b43f0c38d8.db",
+      "relativePath": "conversations/gemini/84c49dc9197ae5fe/f6c599a69b813311.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T18:55:15.464Z",
+  "stagedAt": "2026-10-04T08:22:16.140Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:d7560c23-993f-4bb4-b0b6-3a477e4a0dc5",
+  "sessionId": "d7560c23-993f-4bb4-b0b6-3a477e4a0dc5",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 02 (Roof) avec le nouveau titre Light / Italic et sous-titres canon 1s. Missio",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/d7560c23-993f-4bb4-b0b6-3a477e4a0dc5.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/d7560c23-993f-4bb4-b0b6-3a477e4a0dc5.db",
+      "relativePath": "conversations/gemini/82625c0e42014058/cf38e4dfd812dab1.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:08:54.863Z",
+  "stagedAt": "2026-10-04T08:20:36.044Z"
+}

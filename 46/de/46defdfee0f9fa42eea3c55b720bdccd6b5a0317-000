@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:ae5fc90d-958f-46ae-8145-9b788ea2ac55",
+  "sessionId": "ae5fc90d-958f-46ae-8145-9b788ea2ac55",
+  "provider": "gemini",
+  "title": "Tu es l agent charge de finaliser le Reel 01 (Component_Roof). Execute la commande python : python3 /tmp/composite_reel.py \\ \"/Users/zenray/",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/ae5fc90d-958f-46ae-8145-9b788ea2ac55.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/ae5fc90d-958f-46ae-8145-9b788ea2ac55.db",
+      "relativePath": "conversations/gemini/70282336090a529a/ffaf77613c20ad2a.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T15:48:39.057Z",
+  "stagedAt": "2026-10-04T08:22:36.134Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:0895bf20-dbd0-4539-a9a5-a8d00348bec7",
+  "sessionId": "0895bf20-dbd0-4539-a9a5-a8d00348bec7",
+  "provider": "gemini",
+  "title": "Tu es l'agent dedie au composant 01 Armature. Ta mission est d'extraire la frame a 1 seconde (00:00:01.0) de la video : `/Users/zenray/Downl",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/0895bf20-dbd0-4539-a9a5-a8d00348bec7.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/0895bf20-dbd0-4539-a9a5-a8d00348bec7.db",
+      "relativePath": "conversations/gemini/7eab1ccdb161c0e6/a80b787bb2d467ab.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T17:41:46.474Z",
+  "stagedAt": "2026-10-04T08:23:36.100Z"
+}

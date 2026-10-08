@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:6d551852-dd15-40dd-8580-416a44798e07",
+  "sessionId": "6d551852-dd15-40dd-8580-416a44798e07",
+  "provider": "gemini",
+  "title": "Télécharge l'audio de https://youtu.be/XCJiZiG3ygM?si=wQbwW7NA4Tuy1Nn6 dans /Users/zenray/Downloads/tmp-bayou-louisiana/music_full.mp3 via y",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/6d551852-dd15-40dd-8580-416a44798e07.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/6d551852-dd15-40dd-8580-416a44798e07.db",
+      "relativePath": "conversations/gemini/80bf031162285b4c/5797720bf74e4298.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-19T18:15:56.127Z",
+  "stagedAt": "2026-10-04T08:10:26.035Z"
+}

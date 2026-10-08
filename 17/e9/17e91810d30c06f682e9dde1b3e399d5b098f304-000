@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:2bb050f4-4256-44bb-8b80-c0692ee144d6",
+  "sessionId": "2bb050f4-4256-44bb-8b80-c0692ee144d6",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de finaliser Short 03 (Church). Mission precise : 1. Lance la commande python : python3 /tmp/rende",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/2bb050f4-4256-44bb-8b80-c0692ee144d6.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/2bb050f4-4256-44bb-8b80-c0692ee144d6.db",
+      "relativePath": "conversations/gemini/8004a8b47727edd9/1a700cc8d2854f30.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T20:45:23.631Z",
+  "stagedAt": "2026-10-04T08:21:46.131Z"
+}

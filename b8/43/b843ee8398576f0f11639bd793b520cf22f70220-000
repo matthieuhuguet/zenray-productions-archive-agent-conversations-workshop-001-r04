@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:12833046-e0f5-40f1-a1ba-6aa3cfd90206",
+  "sessionId": "12833046-e0f5-40f1-a1ba-6aa3cfd90206",
+  "provider": "gemini",
+  "title": "Je trouve que Ghostty est trop moche même en changeant la font y'a pas moyen d'avoir un vrai terminal comme claude code desktop ou je peux m",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/12833046-e0f5-40f1-a1ba-6aa3cfd90206.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/12833046-e0f5-40f1-a1ba-6aa3cfd90206.db",
+      "relativePath": "conversations/gemini/6baa8414751cf582/f5fb345577b1d2e2.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-15T18:41:10.198Z",
+  "stagedAt": "2026-10-04T08:14:56.150Z"
+}

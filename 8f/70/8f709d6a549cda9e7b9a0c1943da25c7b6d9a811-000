@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:fa12b402-2077-446e-bfcc-368b5c25efb4",
+  "sessionId": "fa12b402-2077-446e-bfcc-368b5c25efb4",
+  "provider": "gemini",
+  "title": "crée un espace stp. defaults write com.apple.dock persistent-apps -array-add '{\"tile-type\"=\"spacer-tile\";}' && killall Dock",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/fa12b402-2077-446e-bfcc-368b5c25efb4.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/fa12b402-2077-446e-bfcc-368b5c25efb4.db",
+      "relativePath": "conversations/gemini/672cd57b5d9de954/dac38bdc2ca46c02.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T07:38:26.171Z",
+  "stagedAt": "2026-10-04T08:27:18.247Z"
+}

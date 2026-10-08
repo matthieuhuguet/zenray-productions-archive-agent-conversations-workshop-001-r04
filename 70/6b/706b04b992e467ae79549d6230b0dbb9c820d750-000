@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:9ef86ebe-668e-4d1f-b889-4af985f7a3fe",
+  "sessionId": "9ef86ebe-668e-4d1f-b889-4af985f7a3fe",
+  "provider": "gemini",
+  "title": "Les commentaires sont un peu buggés parce que parfois ils apparaissent pas et parfois ils apparaissent mais sans rien à faire. Donc c'est un",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/9ef86ebe-668e-4d1f-b889-4af985f7a3fe.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/9ef86ebe-668e-4d1f-b889-4af985f7a3fe.db",
+      "relativePath": "conversations/gemini/7a541f31b3bde0a9/aebb136ab9c2bbbe.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-07T16:53:17.917Z",
+  "stagedAt": "2026-10-08T08:15:47.781Z"
+}

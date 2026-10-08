@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:be0a8093-c5df-4ea7-acbd-94d7d361b658",
+  "sessionId": "be0a8093-c5df-4ea7-acbd-94d7d361b658",
+  "provider": "gemini",
+  "title": "+ Japanese pull et on va utiliser la dernière leçon. pour générer le plus de vocabulaire possible ce qu'on va faire c'est qu'on va faire en ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/be0a8093-c5df-4ea7-acbd-94d7d361b658.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/be0a8093-c5df-4ea7-acbd-94d7d361b658.db",
+      "relativePath": "conversations/gemini/6bf06e9690017cc4/f7d6b1575684ab1d.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T08:21:07.234Z",
+  "stagedAt": "2026-10-04T08:26:56.376Z"
+}

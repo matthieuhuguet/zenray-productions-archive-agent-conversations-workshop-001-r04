@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:3e22a918-b7a6-4b1f-99ea-e50907f40d44",
+  "sessionId": "3e22a918-b7a6-4b1f-99ea-e50907f40d44",
+  "provider": "gemini",
+  "title": "'/Users/zenray/Movies/2026-09-15 20-36-50.mkv' to mov et speed jusqu'à ce que ça fasse 30 secondes speed ajusté à la longueur initial. go da",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/3e22a918-b7a6-4b1f-99ea-e50907f40d44.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/3e22a918-b7a6-4b1f-99ea-e50907f40d44.db",
+      "relativePath": "conversations/gemini/7b959640045a4282/ff0715158b940c46.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-15T20:06:00.494Z",
+  "stagedAt": "2026-10-04T08:14:46.516Z"
+}

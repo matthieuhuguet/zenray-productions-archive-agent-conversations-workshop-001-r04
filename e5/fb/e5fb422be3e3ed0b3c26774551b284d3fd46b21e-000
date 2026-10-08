@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:948005a4-6a7e-4006-951f-5ece1ff94bac",
+  "sessionId": "948005a4-6a7e-4006-951f-5ece1ff94bac",
+  "provider": "gemini",
+  "title": "retient dans index mapping (ou mapping table) est tout à fait le terme consacré : il désigne précisément l'action ou la table servant à mapp",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/948005a4-6a7e-4006-951f-5ece1ff94bac.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/948005a4-6a7e-4006-951f-5ece1ff94bac.db",
+      "relativePath": "conversations/gemini/74a0aeb7de267362/f8a8a9bf7926ef97.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-02T14:16:56.850Z",
+  "stagedAt": "2026-10-04T08:06:06.081Z"
+}

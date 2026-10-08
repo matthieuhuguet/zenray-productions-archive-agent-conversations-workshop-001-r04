@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:c47e4664-2139-4ecb-913e-4d1462664230",
+  "sessionId": "c47e4664-2139-4ecb-913e-4d1462664230",
+  "provider": "gemini",
+  "title": "rename proprement et ajoute des sous titres en font inter : '/Users/zenray/Downloads/[lost108] BLEACH - Sennen Kessen-hen - 46 - The End - V",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/c47e4664-2139-4ecb-913e-4d1462664230.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/c47e4664-2139-4ecb-913e-4d1462664230.db",
+      "relativePath": "conversations/gemini/83a5b81dbe9ee338/2d48e3805b294ea2.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-24T04:54:52.806Z",
+  "stagedAt": "2026-10-04T08:08:16.110Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:b4584954-be1d-4346-a9a2-9dd5a37bca81",
+  "sessionId": "b4584954-be1d-4346-a9a2-9dd5a37bca81",
+  "provider": "gemini",
+  "title": "to /Users/zenray/Downloads/tmp-FirstJapanModeling/components-breakdown/img.webp jpg",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/b4584954-be1d-4346-a9a2-9dd5a37bca81.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/b4584954-be1d-4346-a9a2-9dd5a37bca81.db",
+      "relativePath": "conversations/gemini/6573966530bd934b/8244b4b13074f29e.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T16:10:38.401Z",
+  "stagedAt": "2026-10-04T08:11:55.998Z"
+}

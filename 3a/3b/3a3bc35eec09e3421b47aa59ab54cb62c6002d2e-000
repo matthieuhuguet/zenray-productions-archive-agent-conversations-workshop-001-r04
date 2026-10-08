@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:8c359457-fb75-44b0-bca5-bc5fcf9ee51b",
+  "sessionId": "8c359457-fb75-44b0-bca5-bc5fcf9ee51b",
+  "provider": "gemini",
+  "title": "change l'icone de zenray-dictate context + utilise les 3 couleurs de l'icone gemini pour créer une icon svg moderne go à partir de l'existan",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/8c359457-fb75-44b0-bca5-bc5fcf9ee51b.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/8c359457-fb75-44b0-bca5-bc5fcf9ee51b.db",
+      "relativePath": "conversations/gemini/7e765df11f96b834/386b531afdac8024.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-05T23:45:47.114Z",
+  "stagedAt": "2026-10-08T13:20:45.363Z"
+}

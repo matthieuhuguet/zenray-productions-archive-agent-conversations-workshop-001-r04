@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:90f9f456-d504-49ca-87ed-70c3c530407c",
+  "sessionId": "90f9f456-d504-49ca-87ed-70c3c530407c",
+  "provider": "gemini",
+  "title": "Navigue sur https://www.leboncoin.fr/messages/id/b67d2b0e-6a6d-43a0-9808-59da53503514. 1. Vérifie si la conversation active a déjà reçu la r",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/90f9f456-d504-49ca-87ed-70c3c530407c.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/90f9f456-d504-49ca-87ed-70c3c530407c.db",
+      "relativePath": "conversations/gemini/73300566cb2650af/3095a4cd464ba8d5.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-17T15:41:59.216Z",
+  "stagedAt": "2026-10-04T08:12:16.017Z"
+}

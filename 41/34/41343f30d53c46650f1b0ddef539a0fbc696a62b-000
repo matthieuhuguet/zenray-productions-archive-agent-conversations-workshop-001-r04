@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:03881ac3-cedb-4188-a34c-f379de877086",
+  "sessionId": "03881ac3-cedb-4188-a34c-f379de877086",
+  "provider": "gemini",
+  "title": "Tu es l'agent dedie au composant 03 PorchStairs. Ta mission est d'extraire la frame a 1 seconde (00:00:01.0) de la video : `/Users/zenray/Do",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/03881ac3-cedb-4188-a34c-f379de877086.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/03881ac3-cedb-4188-a34c-f379de877086.db",
+      "relativePath": "conversations/gemini/707590e689c59455/76dc24c7e806eeff.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-10T17:41:46.474Z",
+  "stagedAt": "2026-10-04T08:23:26.131Z"
+}
