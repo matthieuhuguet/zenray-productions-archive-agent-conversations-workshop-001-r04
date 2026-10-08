@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:5d7ba531-593a-488e-a942-0d878d0f85ee",
+  "sessionId": "5d7ba531-593a-488e-a942-0d878d0f85ee",
+  "provider": "gemini",
+  "title": "Recherche les annonces récentes de Google concernant la taille des fenêtres de contexte de leurs modèles Gemini (notamment les fenêtres de 2",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/5d7ba531-593a-488e-a942-0d878d0f85ee.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/5d7ba531-593a-488e-a942-0d878d0f85ee.db",
+      "relativePath": "conversations/gemini/2bb006dbc6bae9ed/da737f0686bb58a7.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T10:52:02.800Z",
+  "stagedAt": "2026-10-04T08:25:56.164Z"
+}

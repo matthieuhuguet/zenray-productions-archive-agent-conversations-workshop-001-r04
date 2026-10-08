@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:014b2212-ebf2-4e89-8e8b-10894611a7d3",
+  "sessionId": "014b2212-ebf2-4e89-8e8b-10894611a7d3",
+  "provider": "gemini",
+  "title": "j'ai un pseudo zenrayhm mais j'aimerai sur les réseaux ou autres que ça apparaissent le plus possible \"zenray\" le problème c'est que c'est s",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/014b2212-ebf2-4e89-8e8b-10894611a7d3.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/014b2212-ebf2-4e89-8e8b-10894611a7d3.db",
+      "relativePath": "conversations/gemini/344dba38b5337e87/3d23415815fa2394.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-14T14:42:14.258Z",
+  "stagedAt": "2026-10-04T08:16:36.433Z"
+}
